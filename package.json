@@ -1,0 +1,35 @@
+{
+  "name": "react-demo-project",
+  "version": "1.0.0",
+  "description": "a demo project based on React",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "style-loader": "^0.20.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  },
+  "scripts": {
+    "start": "webpack -w --mode development",
+    "prod": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swastikasingh0301/react-demo-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swastikasingh0301/react-demo-project/issues"
+  },
+  "homepage": "https://github.com/swastikasingh0301/react-demo-project#readme"
+}

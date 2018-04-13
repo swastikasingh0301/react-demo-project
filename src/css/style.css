@@ -1,0 +1,40 @@
+.body-form{
+    background-color: rgb(199, 198, 198);
+    border-radius: 5px;
+    padding: 20px;
+    width: 400px;
+    margin-left:442px;
+}
+
+.body-form span{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.body-form span input{
+    width: 90%;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.button{
+    width: 90%;
+    padding: 12px;
+    border-radius: 4px;
+    background-color: rgb(103, 233, 103);
+}
+
+.form-line{
+    color: black;
+}
+
+.quote-div{
+    width:320px;
+    background-color: lightblue;
+    padding: 2px;
+    margin:10px;
+}
