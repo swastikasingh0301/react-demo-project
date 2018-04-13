@@ -38,7 +38,6 @@ class Quote extends Component{
         });
     }
     handleRemove(i) {
-        console.log(this.state.quotes);
         let newItems = this.state.quotes.slice();
         newItems.splice(i -1, 1);
         this.setState({ quotes: newItems });
